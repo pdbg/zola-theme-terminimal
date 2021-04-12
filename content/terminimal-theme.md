@@ -8,7 +8,7 @@ tags = ["zola", "theme", "showcase"]
 
 Welcome to Terminimal! This is a theme showcase post.
 
-Code block (using "boron" theme):
+Code block (using "monokai" theme):
 
 ```python
 #!/usr/bin/python3

@@ -139,6 +139,7 @@ pre {
   overflow: auto;
   border-top: 1px solid rgba(255, 255, 255, .1);
   border-bottom: 1px solid rgba(255, 255, 255, .1);
+  background-color: var(--background) !important;
 
   @media (max-width: $phone-max-width) {
     white-space: pre-wrap;
