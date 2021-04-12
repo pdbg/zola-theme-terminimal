@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pdbg.github.io/zola-theme-terminimal/sitemap.xml
